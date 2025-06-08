@@ -91,6 +91,7 @@ We used the **IMDB Movie Reviews 50K** dataset from Kaggle, which contains:
 
 │ ├── logistic_regression_model.pkl
 
+
 ├── report/
 
 │ └── Sentiment Analysis Report - G3.pdf
@@ -101,5 +102,5 @@ We used the **IMDB Movie Reviews 50K** dataset from Kaggle, which contains:
 
 - **Bernice** – Data preparation and preprocessing
 - **Abubakar** – Logistic Regression model implementation
-- **Kyla** – LSTM model architecture design and tuning
+- **Purity** – LSTM model architecture design and tuning
 - **Peter** – Report writing, structure, and final consolidation
