@@ -72,11 +72,13 @@ We used the **IMDB Movie Reviews 50K** dataset from Kaggle, which contains:
 
 ├── notebooks/
 
+│ ├── Sentiment_analysis_G3_Nadam.ipynb
+
+├── other notebooks/
+
 │ ├── Sentiment_analysis_G3_Adam.ipynb
 
 │ ├── Sentiment_analysis_G3_Adam(dropout).ipynb
-
-│ ├── Sentiment_analysis_G3_Nadam.ipynb
 
 │ ├── Sentiment_analysis_G3_Nadam_dropout.ipynb
 
@@ -85,11 +87,17 @@ We used the **IMDB Movie Reviews 50K** dataset from Kaggle, which contains:
 
 ├── models/
 
-│ ├── model_nadam.keras
+│ ├── model_Nadam.keras
+
+├── other models/
 
 │ ├── model_adam.keras
 
 │ ├── logistic_regression_model.pkl
+
+│ ├── sentiment_adam.keras
+
+│ ├── model_Nadam-2.keras
 
 
 ├── report/
